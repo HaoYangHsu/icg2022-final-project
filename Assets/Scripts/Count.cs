@@ -86,7 +86,7 @@ public class Count : MonoBehaviour
 
             score.points += 2000;
 
-            Speedup1(1.1f,10);
+            Speedup1(1.2f,10);
 
             Invoke("Flashtext", 1);
             //Flashtext();

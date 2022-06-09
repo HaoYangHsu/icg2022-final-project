@@ -13,7 +13,7 @@ public class FlyingHook : MonoBehaviour
 
 
     // Update is called once per frame
-    void Update()
+    void LateUpdate()
     {
         bool to_detect = true;
         foreach (ConfigurableJoint joint in m_JointForObjects)

@@ -1881,7 +1881,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000011048348644, guid: 84147b87204d0a0478bae9558d656ea2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 30
+      value: 31.63
       objectReference: {fileID: 0}
     - target: {fileID: 4000011048348644, guid: 84147b87204d0a0478bae9558d656ea2, type: 3}
       propertyPath: m_LocalRotation.w
@@ -8560,7 +8560,7 @@ MonoBehaviour:
   TurretPrefabs: {fileID: 6485772092818762279, guid: e700774b0e7a7484eaa8d2bd60899251, type: 3}
   Turrets: {fileID: 1475287919}
   score: {fileID: 1187834306}
-  energy_required: 3000
+  energy_required: 4000
 --- !u!1 &1154461862 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6809944706259094419, guid: 0a3972e964dcd2b47b2a3bc58d35d554, type: 3}
